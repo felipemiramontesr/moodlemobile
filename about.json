@@ -1,14 +1,14 @@
 {
-"name": "Moodle Mobile",
+"name": "Cursos Cruz Roja",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
 {
-    "fullname": "Juan Leyva",
+    "fullname": "Felipe de Jesus Miramontes",
     "contribution": "Main developer",
-    "company": "CV&A Consulting"
+    "company": "Iron Geek"
 },
 {
     "fullname": "Josep Maria Gifreu",
